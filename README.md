@@ -1,6 +1,6 @@
 # Coding Challenge - Javascript
 
-This is the Javascript coding challenge for Vivacity Labs. We have given you some skeleton code for the basic structure of the each part. When you have completed the challenge we should be able to run the the tests we have provided. Please refrain from adding any additional mocha tests.
+We have given you some skeleton code for the basic structure of the each part. When you have completed the challenge we should be able to run the the tests we have provided. Please refrain from adding any additional mocha tests.
 
 ## Install
 
